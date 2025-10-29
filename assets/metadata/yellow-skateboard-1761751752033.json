@@ -1,0 +1,23 @@
+{
+  "name": "YELLOW Skateboard",
+  "description": "A unique skateboard NFT made by Hillary Chikendu",
+  "image": "https://raw.githubusercontent.com/ChikenduHillary/suburbia-skate-board-asset/main/assets/nfts/yellow-skateboard-1761751752033.png",
+  "attributes": [
+    {
+      "trait_type": "Wheel",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Deck",
+      "value": "yellow-and-black"
+    },
+    {
+      "trait_type": "Truck",
+      "value": "black"
+    },
+    {
+      "trait_type": "Bolt",
+      "value": "black"
+    }
+  ]
+}
