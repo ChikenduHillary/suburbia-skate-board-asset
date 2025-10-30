@@ -1,0 +1,23 @@
+{
+  "name": "Cream Skateboard",
+  "description": "A unique skateboard NFT made by Hillary Chikendu",
+  "image": "https://raw.githubusercontent.com/ChikenduHillary/suburbia-skate-board-asset/main/assets/nfts/cream-skateboard-1761786376542.png",
+  "attributes": [
+    {
+      "trait_type": "Wheel",
+      "value": "cream"
+    },
+    {
+      "trait_type": "Deck",
+      "value": "oni-mask"
+    },
+    {
+      "trait_type": "Truck",
+      "value": "red"
+    },
+    {
+      "trait_type": "Bolt",
+      "value": "steel"
+    }
+  ]
+}
