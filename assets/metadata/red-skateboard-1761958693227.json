@@ -1,0 +1,23 @@
+{
+  "name": "Red Skateboard",
+  "description": "A unique skateboard NFT made by Joshua 11",
+  "image": "https://raw.githubusercontent.com/ChikenduHillary/suburbia-skate-board-asset/main/assets/nfts/red-skateboard-1761958693227.png",
+  "attributes": [
+    {
+      "trait_type": "Wheel",
+      "value": "red"
+    },
+    {
+      "trait_type": "Deck",
+      "value": "red-and-black"
+    },
+    {
+      "trait_type": "Truck",
+      "value": "black"
+    },
+    {
+      "trait_type": "Bolt",
+      "value": "black"
+    }
+  ]
+}
