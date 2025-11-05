@@ -1,0 +1,23 @@
+{
+  "name": "Pink Skateboard",
+  "description": "A unique skateboard NFT made by Isaac Nwosu",
+  "image": "https://raw.githubusercontent.com/ChikenduHillary/suburbia-skate-board-asset/main/assets/nfts/pink-skateboard-1762336471414.png",
+  "attributes": [
+    {
+      "trait_type": "Wheel",
+      "value": "pink"
+    },
+    {
+      "trait_type": "Deck",
+      "value": "red-and-white"
+    },
+    {
+      "trait_type": "Truck",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Bolt",
+      "value": "asphalt"
+    }
+  ]
+}
